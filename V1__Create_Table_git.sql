@@ -1,4 +1,5 @@
-Create table car 
+Create Table Liq_Test
 (
-CarName nvarchar(50)
+	ID int
 )
+GO
