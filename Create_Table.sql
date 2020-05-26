@@ -1,3 +1,4 @@
-Create table car (
-Carname nvarchar(50)
+Create table car 
+(
+CarName nvarchar(50)
 )
