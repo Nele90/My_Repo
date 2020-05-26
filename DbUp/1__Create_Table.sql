@@ -1,4 +1,4 @@
-Create Table Liq_Test
+Crseate Table Liq_Test
 (
 	ID int
 )
