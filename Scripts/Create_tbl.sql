@@ -7,11 +7,3 @@ Create table Cars
 )
 
 --rollback DROP TABLE cars
-
-
-
-
-
-
-
-
