@@ -6,4 +6,5 @@ AS
 SELECT * 
 FROM sys.databases
 
+
 --rollback ALTER View Liq_Test AS SELECT database_id  FROM sys.databases
