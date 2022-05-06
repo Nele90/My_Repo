@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Prva 1 SRB ex-Yu">
+    <display-name lang="sr">Prva 1 SRB ex-Yu</display-name>
+    <icon src="https://mts.rs/oec/images/tv_channels/57d29ca075561b37e03a157ca2321d72.png" />
+    <url>http://www.mts.rs</url>
+  </channel>
+  <programme start="20220506002400 +0200" stop="20220506005800 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Andrija i Anđelka</title>
+    <desc lang="sr">Ovaj humoristički serijal na zabavan način donosi najrazličitije, tipične i netipične situacije u kojima se jedan par nađe. Andrija i Anđelka uspešno savladavaju sve izazove zajedničkog života, iako su naizgled u stalnoj borbi.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_883752fd06623f8723df591a73b65eb0c79dd729.jpg" />
+  </programme>
+  <programme start="20220506005800 +0200" stop="20220506022300 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Direktan prenos</title>
+    <desc lang="sr">Dva mladića i jedna devojka, prolazeći kroz sve dileme svoje generacije, žive zajedno i pokušavaju da izgrade svoj svet, da nađu svoje mesto u društvu. Način njihovog života, poimanje istine i pravde, ljubavi i strasti, svakog od njih dovodi u sukob sa sredinom, sa ljudima koji žele da promene njihove odnose i da ih uklope u opšte prihvaćene moralne norme. Oni polako posustaju i tada se čitav njihov svet menja. Neko se uklapa u jednoličnu svakodnevicu, a neko će naći snage da se odupre.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_6fd1941caaaaf5042d5331dece734add34c7ed79.jpg" />
+  </programme>
+  <programme start="20220506022300 +0200" stop="20220506024100 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exkluziv</title>
+    <desc lang="sr">Ekipa Exkluziva vredno je radila tokom leta I svojim gledaocima će prikazati nove, ekskluzivne priče o životu poznatih. Otkriće nam mnoštvo pikanterija o domaćim i inostranim zvezdama I emitovati ekskluzivne priloge. Saznajte baš sve o poznatima - o njihovim ljubavima, raskidima, šta rade, gde izlaze, šta spremaju, gde putuju. U novoj sezoni nas očekuje mnoštvo zanimljivih priča uprkos pandemiji I merama koje su nas sve zadesile. Saznaćemo kako su izgledali koncerti najvećih zvezda poput Zdravka Čolića, a reporteri Exkluziva otriće nam gde su tokom vrelih letnjih dana boravile poznate ličnosti kao i koje su im omiljene morske destinacije. Videćemo I kako se nose sa svim merama protiv kovida I koliko je to uticalo na njihove poslovne i privatne planove. Ekipa Exkluziva, predvođena urednicom I voditeljkom Danijelom Buzurović i dalje će biti prva i na pravom mestu sa proverenim, ekskluzivnim informacijama.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_92917985d74f7e4f416cc55a6f6ff2d489685a69.jpg" />
+  </programme>
+  <programme start="20220506024100 +0200" stop="20220506030900 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exploziv</title>
+    <desc lang="sr">Priče o zaboravljenim herojima, običajima, najpoznatijoj proročici, čudesnim ljubavima, guruima i neobičnim ljudima. Počinje nova, dvanaesta sezona jedne od omiljenih emisija EXploziv. Kao i prethodnih godina, urednički I novinarski tim radio je punom parom tokom leta. U potrazi za dobrim, zanimljivim I životnim pričama putovali smo kroz Srbiju ali I region. Išli smo stazama kovid turista u Grčku, Albaniju I Crnu Goru i proveravali kako su leto pod maskama proveli putnici ali i domaćini. Ko se dobro proveo, ko je zaradio, a ko izgubio saznaćemo u serijalu koji je spreman, napominje urednica emisije Marija Prebeg.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_02941e8dacce05d38a475f7e97591c41d5a89109_D6F3DCBCA2C4DA0BBD4C9307B82504F9.jpg" />
+  </programme>
+  <programme start="20220506030900 +0200" stop="20220506041300 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Ljubav na pomolu</title>
+    <desc lang="sr">Serija Ljubav na pomolu prati priču o Ajši, koja je zbog klevetničkih optužbi primorana da se uda za Kerema, poznatog bogatog i zgodnog plejboja. Glavne uloge u ovoj turskoj komičnoj romansi tumače Burču Ozberk i Kaglar Ertugrul. Ajše i Kerem su nedavno venčali, deluju kao izuzetno srećan par, ali će već prvu bračnu noć provesti odvojeno. Njihovi životni putevi su veoma zamršeni, a kako će se odvijati njihov bračni život i jeste srž ove TV novele. Kerem je zgodan momak iz porodice velikih tekstilnih industrijalaca, ali živi kao pravi plejboj. Ajše je zaposlena u Keremovoj radionici i živi sa dvojcom braće koji kontrolišu svaki njen korak. Ajšina braća odlučuju da sestru udaju za Kerema, kako bi osigurali finansijsku dobrobit. Ipak, tv novela ne bi bila tv novela da nema ljubavnog trougla. U njemu je i Ajšina velika ljubav Berk. Kroz epizode ove turske serije, godine, videćemo da li je i čija je ljubav pobedila.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_c1d4d631f0d11de07537fbb6cc7ca3b9375a7aa5.jpg" />
+  </programme>
+  <programme start="20220506041300 +0200" stop="20220506045800 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Kolo sreće</title>
+    <desc lang="sr">Serija Kolo sreće je romantični triler o skomnoj ženi koja se bori sa svim nedaćama koje nosi život samohrane majke dvoje odrasle dece. Rastrzana između želje da obezbedi novac za opstanak svoje porodice i brige o ukućanima, Mara Raketić doživeće obrt kakav se dešava retkima – dobija na lutriji i postaje jedna od najbogatijih osoba u zemlji. Sa Marinim bogatstvom, međutim, krenuće da se raspliću velike tajne i intrige koje ljudi oko nje imaju, ali najveća tajna je ona koju Mara nosi od rane mladosti.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_1d28ac5f88b42f934b1c06fa73513dc09398a358.jpg" />
+  </programme>
+  <programme start="20220506045800 +0200" stop="20220506051700 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Na mestu zločina sa Mašanom</title>
+    <desc lang="sr">Potresne ispovesti, izveštaji sa suđenja, ekskluzivne priče o kriminalu, i verodostojne rekonstrukcije zločina biće okosnica emisije i ove sezone. Ekipa je spremna za novu sezonu. Imaćemo dosta novih stvari. A naše kamere će i dalje biti tik uz policiju, inspektore, vatrogasce, hitnu pomoć i specijalce u njihovim uzbudljivim akcijama, kaže autor emisije Mašan Lekić.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_2783e4421f1282dc718a309d22c3600e90286fa0_F2B3C1E208E1050F3A4860107ED8CEF0.jpg" />
+  </programme>
+  <programme start="20220506051700 +0200" stop="20220506053500 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exkluziv</title>
+    <desc lang="sr">Ekipa Exkluziva vredno je radila tokom leta I svojim gledaocima će prikazati nove, ekskluzivne priče o životu poznatih. Otkriće nam mnoštvo pikanterija o domaćim i inostranim zvezdama I emitovati ekskluzivne priloge. Saznajte baš sve o poznatima - o njihovim ljubavima, raskidima, šta rade, gde izlaze, šta spremaju, gde putuju. U novoj sezoni nas očekuje mnoštvo zanimljivih priča uprkos pandemiji I merama koje su nas sve zadesile. Saznaćemo kako su izgledali koncerti najvećih zvezda poput Zdravka Čolića, a reporteri Exkluziva otriće nam gde su tokom vrelih letnjih dana boravile poznate ličnosti kao i koje su im omiljene morske destinacije. Videćemo I kako se nose sa svim merama protiv kovida I koliko je to uticalo na njihove poslovne i privatne planove. Ekipa Exkluziva, predvođena urednicom I voditeljkom Danijelom Buzurović i dalje će biti prva i na pravom mestu sa proverenim, ekskluzivnim informacijama.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_92917985d74f7e4f416cc55a6f6ff2d489685a69.jpg" />
+  </programme>
+  <programme start="20220506053500 +0200" stop="20220506060000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exploziv</title>
+    <desc lang="sr">Priče o zaboravljenim herojima, običajima, najpoznatijoj proročici, čudesnim ljubavima, guruima i neobičnim ljudima. Počinje nova, dvanaesta sezona jedne od omiljenih emisija EXploziv. Kao i prethodnih godina, urednički I novinarski tim radio je punom parom tokom leta. U potrazi za dobrim, zanimljivim I životnim pričama putovali smo kroz Srbiju ali I region. Išli smo stazama kovid turista u Grčku, Albaniju I Crnu Goru i proveravali kako su leto pod maskama proveli putnici ali i domaćini. Ko se dobro proveo, ko je zaradio, a ko izgubio saznaćemo u serijalu koji je spreman, napominje urednica emisije Marija Prebeg.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_02941e8dacce05d38a475f7e97591c41d5a89109_D6F3DCBCA2C4DA0BBD4C9307B82504F9.jpg" />
+  </programme>
+  <programme start="20220506060000 +0200" stop="20220506101000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Jutro</title>
+    <desc lang="sr">Svakog dana nas bude i informišu o najvažnijim događajima u zemlji i svetu. Osim servisnih informacija, tu su i sve aktuelne vesti, novosti iz društveno - političkog i kulturnog života, raznovrsne životne teme, razgovori sa gostima, vremenska prognoza i zabavni segment u kojem gostuju najveće zvezde zemlje i regiona.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_af8fa730246e2ba717c7ca14667a431e8be1f178_52CD1A84B9D40AF105074FB8CD610452.jpg" />
+  </programme>
+  <programme start="20220506101000 +0200" stop="20220506102500 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Biostile - Vaše zdravlje, naša briga</title>
+    <desc lang="sr">Program za sve ljubitelje kupovine iz svog toplog doma! Tv prodaja je pravo mesto za vas! Pratite naš program i saznajte koje sve korisne proizvode možete da nabavite, a da ne morate ni da mrdnete iz svoje kuće.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_adde3ea4b11157f871ebc05164d678170d982ba1.jpg" />
+  </programme>
+  <programme start="20220506102500 +0200" stop="20220506112000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Kolo sreće</title>
+    <desc lang="sr">Serija Kolo sreće je romantični triler o skomnoj ženi koja se bori sa svim nedaćama koje nosi život samohrane majke dvoje odrasle dece. Rastrzana između želje da obezbedi novac za opstanak svoje porodice i brige o ukućanima, Mara Raketić doživeće obrt kakav se dešava retkima – dobija na lutriji i postaje jedna od najbogatijih osoba u zemlji. Sa Marinim bogatstvom, međutim, krenuće da se raspliću velike tajne i intrige koje ljudi oko nje imaju, ali najveća tajna je ona koju Mara nosi od rane mladosti.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_1d28ac5f88b42f934b1c06fa73513dc09398a358.jpg" />
+  </programme>
+  <programme start="20220506112000 +0200" stop="20220506130000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Ljubav na pomolu</title>
+    <desc lang="sr">Serija Ljubav na pomolu prati priču o Ajši, koja je zbog klevetničkih optužbi primorana da se uda za Kerema, poznatog bogatog i zgodnog plejboja. Glavne uloge u ovoj turskoj komičnoj romansi tumače Burču Ozberk i Kaglar Ertugrul. Ajše i Kerem su nedavno venčali, deluju kao izuzetno srećan par, ali će već prvu bračnu noć provesti odvojeno. Njihovi životni putevi su veoma zamršeni, a kako će se odvijati njihov bračni život i jeste srž ove TV novele. Kerem je zgodan momak iz porodice velikih tekstilnih industrijalaca, ali živi kao pravi plejboj. Ajše je zaposlena u Keremovoj radionici i živi sa dvojcom braće koji kontrolišu svaki njen korak. Ajšina braća odlučuju da sestru udaju za Kerema, kako bi osigurali finansijsku dobrobit. Ipak, tv novela ne bi bila tv novela da nema ljubavnog trougla. U njemu je i Ajšina velika ljubav Berk. Kroz epizode ove turske serije, godine, videćemo da li je i čija je ljubav pobedila.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_c1d4d631f0d11de07537fbb6cc7ca3b9375a7aa5.jpg" />
+  </programme>
+  <programme start="20220506130000 +0200" stop="20220506152300 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">150 Minuta</title>
+    <desc lang="sr">Gledaoci će se informisati ne samo o najvažnijim događajima u zemlji i svetu već će svakodnevno dobijati nepohodnu dozu korisnih i zanimljivih saveta u vrelim letnjim danima. Domaćini emisije razgovaraće u studiju sa brojnim gostima o najaktuelnijim temama iz svih oblasti - zdravlja, kulture, sporta i zabave. Saznaćemo i mnoge cake koje će učiniti da se osećamo kao kulinarski magovi. Novinarska ekipa emisije oblizaće celu Srbiju i informisati o najzanimljivijim događajima i manifestacijama, saznaćemo i koje su to destinacije u Srbiji koje turisti najviše vole da posećuju tokom vrelih dana, a emisija će obilovati i primorskim pričama. Letnjih 150 minuta biće pravo osveženje jer je to našim gledaocima potrebno. I nećemo ih izneveriti. Idemo u korak sa aktuelnošću ali vodimo gledaoce i na planine, more i na sva lepa mesta u Srbiji. Tražimo događaje koje ljudima mogu da ulepšaju letnje dane. Nećemo zaobići ni influens scenu, šta je ono što izaziva najviše komentara na društvenim mrežama, a gledaoci će imati priliku da kuvaju sa nama svaki radni dan.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_e27a72087c48f0854881009a3737566baff2b18f.jpg" />
+  </programme>
+  <programme start="20220506152300 +0200" stop="20220506162600 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Igra sudbine</title>
+    <desc lang="sr">Aleksa je momak iz bogate porodice i visokog društva, dok je Luka siromašni mladić. Sudbina će se poigrati sa njima tako što će medicinska sestra na samrti priznati da ih je nakon rođenja slučajno zamenila. Ovo saznanje unosi preokret u njihov život i život njihovih porodica.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_6f10124499f2672f7b0ba934736903b222d643f7.jpg" />
+  </programme>
+  <programme start="20220506162600 +0200" stop="20220506173000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Praktična žena</title>
+    <desc lang="sr">Emisija Praktična žena autorke i voditeljke Nataše Pavlović, donosi niz praktičnih saveta i ideja vezanih za lepotu, kuvanje, održavanje domaćinstva, zdravlje, modu, porodicu... U emisiji se gotovo svi saveti i predlozi prikazuju i u praksi, čime se ova emisija izdvaja svojom neposrednošću i toplinom.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_b12ed646a8ab217b28fdc7def510cfef6d083730_6806E3B5F6F41C71E09B5AA209DEC455.jpg" />
+  </programme>
+  <programme start="20220506173000 +0200" stop="20220506180000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exkluziv</title>
+    <desc lang="sr">Ekipa Exkluziva vredno je radila tokom leta I svojim gledaocima će prikazati nove, ekskluzivne priče o životu poznatih. Otkriće nam mnoštvo pikanterija o domaćim i inostranim zvezdama I emitovati ekskluzivne priloge. Saznajte baš sve o poznatima - o njihovim ljubavima, raskidima, šta rade, gde izlaze, šta spremaju, gde putuju. U novoj sezoni nas očekuje mnoštvo zanimljivih priča uprkos pandemiji I merama koje su nas sve zadesile. Saznaćemo kako su izgledali koncerti najvećih zvezda poput Zdravka Čolića, a reporteri Exkluziva otriće nam gde su tokom vrelih letnjih dana boravile poznate ličnosti kao i koje su im omiljene morske destinacije. Videćemo I kako se nose sa svim merama protiv kovida I koliko je to uticalo na njihove poslovne i privatne planove. Ekipa Exkluziva, predvođena urednicom I voditeljkom Danijelom Buzurović i dalje će biti prva i na pravom mestu sa proverenim, ekskluzivnim informacijama.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_92917985d74f7e4f416cc55a6f6ff2d489685a69.jpg" />
+  </programme>
+  <programme start="20220506180000 +0200" stop="20220506184800 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Vesti</title>
+    <desc lang="sr">Informišemo vas o najvažnijim događajima u zemlji, regionu i svetu. Otkrivamo kako se menjaju Srbija i svet. Pričamo o temama koje nas sve zanimaju. Osnovni zadatak naše Informativne redakcije jeste brzo, kvalitetno, pošteno i pouzdano izveštavanje.(n)</desc>
+    <category lang="sr">Vesti</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_81071530c9d49e25cd56030680c01c27e4515e2a.jpg" />
+  </programme>
+  <programme start="20220506184800 +0200" stop="20220506191500 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Exploziv</title>
+    <desc lang="sr">Mogu li ljudi uz današnji brz život da nadju vreme za sebe i sve svoje želje? U večerašnjem prilogu emisije Eksploziv upoznajte Sašu Edija Đorđevića iz Smedereva. On je načelnik sektora za vanredne situacije, ali to nije sve. On je i glumac, muzičar, pisac, a čime se još bavi i kako sve postiže pogledajte u prilogu​ reporterke Helene Petrović.(n)</desc>
+    <category lang="sr">Info</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_02941e8dacce05d38a475f7e97591c41d5a89109_D6F3DCBCA2C4DA0BBD4C9307B82504F9.jpg" />
+  </programme>
+  <programme start="20220506191500 +0200" stop="20220506200000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Andrija i Anđelka</title>
+    <desc lang="sr">Ovaj humoristički serijal na zabavan način donosi najrazličitije, tipične i netipične situacije u kojima se jedan par nađe. Andrija i Anđelka uspešno savladavaju sve izazove zajedničkog života, iako su naizgled u stalnoj borbi.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_883752fd06623f8723df591a73b65eb0c79dd729.jpg" />
+  </programme>
+  <programme start="20220506200000 +0200" stop="20220506201000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Loto</title>
+    <desc lang="sr">Lepa voditeljka Marina Matijević nastaviće da vodi LOTO i kako kaže, s nestrpljenjem iščekuje početak novog druženja sa igračima.(n)</desc>
+    <category lang="sr">Zabavni program</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_06740fb09e676d9f5bbb1769c7cfe67f6316c51c.jpg" />
+  </programme>
+  <programme start="20220506201000 +0200" stop="20220506211100 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Igra sudbine</title>
+    <desc lang="sr">Aleksa je momak iz bogate porodice i visokog društva, dok je Luka siromašni mladić. Sudbina će se poigrati sa njima tako što će medicinska sestra na samrti priznati da ih je nakon rođenja slučajno zamenila. Ovo saznanje unosi preokret u njihov život i život njihovih porodica.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_6f10124499f2672f7b0ba934736903b222d643f7.jpg" />
+  </programme>
+  <programme start="20220506211100 +0200" stop="20220506220800 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Kolo sreće</title>
+    <desc lang="sr">Posle opšteg raskrinkavanja, Petar objašnjava Rosi da je sve moglo da bude drugačije samo da mu je rekla gde su mu roditelji i zato je izbacuje iz sobe. Bojan nervozno objašnjava sestri da je sve bilo isplanirano - od slučajnog susreta u butiku do njene otmice. Iako Goca i Bojan ne misle da bi Petar trebalo da prođe nekažnjeno za zlo koje im je učinio, Mara im jasno saopštava da ona svoje dete neće gurati u zatvor dok mu ne da šansu. Uznemirena Silvija ne može da poveruje da ju je Kosta izdao.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_1d28ac5f88b42f934b1c06fa73513dc09398a358.jpg" />
+  </programme>
+  <programme start="20220506220800 +0200" stop="20220506231000 +0200" channel="Prva 1 SRB ex-Yu">
+    <title lang="sr">Besa</title>
+    <desc lang="sr">Serija se nastavlja tri godine kasnije pošto je Uroš Perić primio poslednji zadatak od šefa albanske mafije Dardana Beriše da ubije inspektora Petrita Kocija kako bi iskupio sopstveni život. Uroš Perić i njegova porodica nalaze se na potpuno neočekivanom mestu, dok su šef mafije Dardan Beriša i inspektor Interpola Petrit Koci smešteni u neočekivane zaplete i situacije. Uprkos očevoj zabrani, mladi Driton Beriša dobija značajnu ulogu željan osvete vraća se u Ulcinj i pokreće niz događaja koji će nametnuti dilemu da li je uvek moguće održati datu reč i zaštititi porodicu.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/18/2_6aefc7075ac4e49326cfbea2bef77602f3dab26e.jpg" />
+  </programme>
+</tv>
